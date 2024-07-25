@@ -6,5 +6,4 @@
 
  <h1 align="center"> Criando e Utilizando Sua Carteira de Criptomoedas </h1>
 
- - **Objetivo do desafio:** Criar e utilizar uma carteira de criptomoedas.
 
